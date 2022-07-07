@@ -21,6 +21,6 @@ To help Louise, successfully complete the crowdfunding project.
 
 - Success rate is higher when the goal amount is low.
 
-- when the goal amount is higher the sucess rate is low.
+- when the goal amount is higher the success rate is low.
 
 
